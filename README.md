@@ -130,6 +130,28 @@ From the above graph we can see that the married women have more purchases than 
 We can see that most of the buyers are working in IT Sector, Healthcare and Aviation as per the graph
 
 
+
+
+**MOST SOLD PRODUCTS**
+
+
+
+![from above graph we can see that most of the sold products are from food, clothing, electronic gadgets]()
+
+
+
+
+
+![from above graph we can see that most of the sold products are from food, clothing, electronic gadgets]()
+
+
+
+
+
+
+From above graph we can see that most of the sold products are from food, clothing, electronic gadgets
+
+
 ---
 
 ## 💡 Key Insights
