@@ -113,6 +113,16 @@ From the above graph we can see that the married women have more purchases than 
 
 
 
+![we can see that most of the buyers are working in IT Sector , Healthcare, Aviation as per the graph]()
+
+
+
+
+![we can see that most of the buyers are working in IT Sector , Healthcare, Aviation as per the graph]()
+
+
+
+
 ---
 
 ## 💡 Key Insights
