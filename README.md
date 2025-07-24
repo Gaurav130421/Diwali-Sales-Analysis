@@ -112,6 +112,8 @@ From the above graph we can see that the married women have more purchases than 
 
 
 
+
+
 **BY OCCUPATION AND AMOUNT**
 
 
