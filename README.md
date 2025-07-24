@@ -156,7 +156,7 @@ From above graph we can see that most of the sold products are from food, clothi
 
 ## 💡 Key Insights
 
-- **Most buyers are Male** in the **26–35 age group**
+- **Most buyers are Female** in the **26–35 age group**
 - **Uttar Pradesh, Maharashtra, and Karnataka** lead in total sales
 - **Married people** spend more on average
 - **Category 1** and **Category 2 products** dominate in sales
@@ -169,5 +169,14 @@ From above graph we can see that most of the sold products are from food, clothi
 - Using groupby and aggregation functions effectively
 - Crafting professional-looking plots with Seaborn & Matplotlib
 - Deriving business-level insights from raw datasets
+
+
+## CONCLUSION
+
+
+Married women age group from 26-35 years from UP, Mharashtra and Karnataka who are working in IT, Healthcare and Aviation sector are more likely to buy products from Food, Clothing and Electronic category
+
+
+
 
 
