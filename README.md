@@ -58,7 +58,11 @@ Here are a few key visual insights from the analysis:
 From above graph we can see that the purchasing power of women is more than compared to men
 
 
-![The above graph shows that the most of the buyers are from the age group of 26-35 and are females](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20204946.png)()
+![The above graph shows that the most of the buyers are from the age group of 26-35 and are females](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20204946.png)
+
+![The above graph shows that the most of the buyers are from the age group of 26-35 and are females](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20205004.png)
+
+The above graph shows that the most of the buyers are from the age group of 26-35 and are females
 
 
 ---
