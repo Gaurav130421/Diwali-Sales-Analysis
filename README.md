@@ -112,8 +112,10 @@ From the above graph we can see that the married women have more purchases than 
 
 
 
+**BY OCCUPATION AND AMOUNT**
 
-![we can see that most of the buyers are working in IT Sector , Healthcare, Aviation as per the graph]()
+
+![we can see that most of the buyers are working in IT Sector , Healthcare, Aviation as per the graph](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20213637.png)
 
 
 
