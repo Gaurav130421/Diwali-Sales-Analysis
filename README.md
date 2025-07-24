@@ -100,7 +100,13 @@ This chart highlights that Uttar Pradesh, Maharashtra, and Karnataka generated t
 ![MARITIAL STATUS COUNT](https://github.com/Gaurav130421/Diwali-Sales-Analysis/commit/a9563a107aa97acedbd044e96993e1b134acd36b)
 
 
-![from the above graph we can see that the married women have more purchases than the unmarried]()
+![from the above graph we can see that the married women have more purchases than the unmarried](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20210523.png)
+
+
+
+
+From the above graph we can see that the married women have more purchases than the unmarried
+
 
 
 
