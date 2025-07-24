@@ -97,7 +97,7 @@ This chart highlights that Uttar Pradesh, Maharashtra, and Karnataka generated t
 **MARITIAL STATUS DISTRIBUTION**
 
 
-![MARITIAL STATUS COUNT](https://github.com/Gaurav130421/Diwali-Sales-Analysis/commit/a9563a107aa97acedbd044e96993e1b134acd36b)
+![MARITIAL STATUS COUNT](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20210453.png)
 
 
 
