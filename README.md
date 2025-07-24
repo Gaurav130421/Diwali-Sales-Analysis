@@ -136,7 +136,7 @@ We can see that most of the buyers are working in IT Sector, Healthcare and Avia
 
 
 
-![from above graph we can see that most of the sold products are from food, clothing, electronic gadgets]()
+![from above graph we can see that most of the sold products are from food, clothing, electronic gadgets](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20214824.png)
 
 
 
