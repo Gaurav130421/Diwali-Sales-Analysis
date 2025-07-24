@@ -4,6 +4,7 @@
 
 
 
+
 # 🎇 Diwali Sales Analysis using Python 🛍️
 
 A comprehensive and visual exploration of festive sales data to extract meaningful business insights using Python.
@@ -52,6 +53,8 @@ The dataset contains:
 Here are a few key visual insights from the analysis:
 
 ![from the graph we can see that the purchasing power of women is more than compared to men](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20203512.png)
+
+From above graph we can see that the purchasing power of women is more than compared to men
 
 
 ---
