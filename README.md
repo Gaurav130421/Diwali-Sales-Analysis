@@ -79,8 +79,16 @@ The above graph shows that the most of the buyers are from the age group of 26-3
 **Top 10 States by Number of Orders During Diwali Sales**
 
 
-![X=STATES,Y=ORDERS]()
+![X=STATES,Y=ORDERS](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20210353.png)
 
+
+This bar chart shows that Uttar Pradesh, Maharashtra, and Karnataka had the highest number of customer orders during the Diwali season, indicating strong regional demand.
+
+
+**Top 10 States by Total Purchase Amount During Diwali Sales**
+
+
+![X=STATE,Y=AMOUNT]()
 
 ---
 
