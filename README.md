@@ -88,7 +88,13 @@ This bar chart shows that Uttar Pradesh, Maharashtra, and Karnataka had the high
 **Top 10 States by Total Purchase Amount During Diwali Sales**
 
 
-![X=STATE,Y=AMOUNT]()
+![X=STATE,Y=AMOUNT](https://github.com/Gaurav130421/Diwali-Sales-Analysis/blob/main/Screenshot%202025-07-24%20210436.png)
+
+
+This chart highlights that Uttar Pradesh, Maharashtra, and Karnataka generated the highest revenue, showcasing their dominant contribution to overall Diwali sales.
+
+
+
 
 ---
 
