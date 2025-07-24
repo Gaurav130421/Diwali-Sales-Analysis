@@ -76,6 +76,12 @@ From above graph we can see that the purchasing power of women is more than comp
 The above graph shows that the most of the buyers are from the age group of 26-35 and are females
 
 
+**Top 10 States by Number of Orders During Diwali Sales**
+
+
+![X=STATES,Y=ORDERS]()
+
+
 ---
 
 ## 💡 Key Insights
