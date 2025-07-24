@@ -51,7 +51,7 @@ The dataset contains:
 
 Here are a few key visual insights from the analysis:
 
-("C:\Users\Gaurav\Pictures\Screenshots\Screenshot 2025-07-24 203512.png")
+!("C:\Users\Gaurav\Pictures\Screenshots\Screenshot 2025-07-24 203512.png")
 <img src="images/age_vs_sales.png" alt="Age-wise Sales" width="600"/>
 <img src="images/category_distribution.png" alt="Category Distribution" width="600"/>
 <img src="images/state_sales.png" alt="State-wise Revenue" width="600"/>
