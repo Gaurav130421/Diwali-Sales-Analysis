@@ -94,6 +94,14 @@ This bar chart shows that Uttar Pradesh, Maharashtra, and Karnataka had the high
 This chart highlights that Uttar Pradesh, Maharashtra, and Karnataka generated the highest revenue, showcasing their dominant contribution to overall Diwali sales.
 
 
+**MARITIAL STATUS DISTRIBUTION**
+
+
+![MARITIAL STATUS COUNT](https://github.com/Gaurav130421/Diwali-Sales-Analysis/commit/a9563a107aa97acedbd044e96993e1b134acd36b)
+
+
+![from the above graph we can see that the married women have more purchases than the unmarried]()
+
 
 
 ---
